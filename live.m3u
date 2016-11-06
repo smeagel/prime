@@ -20,5 +20,5 @@ http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/inspirationlinks.m3u8
 http://firstrowas.co/embed/9DOXhIxxsw
 #EXTINF:-1,TSN1
 plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/342.mpegts&amp;streamtype=TSDOWNLOADER
-#EXTINF:-1,Desgarrada
+#EXTINF:-1,Desgarrada1
 plugin://plugin.video.youtube/?url=https://youtu.be/s0uFNnIfS9w
