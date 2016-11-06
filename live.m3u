@@ -21,4 +21,4 @@ http://firstrowas.co/embed/9DOXhIxxsw
 #EXTINF:-1,TSN1
 plugin://plugin.video.f4mTester/?url=http://smashtv.ddns.net:9090/load/946a914c3965/342.mpegts&amp;streamtype=TSDOWNLOADER
 #EXTINF:-1,Desgarrada
-plugin://plugin.video.youtube/?url=https://www.youtube.com/watch?v=s0uFNnIfS9w
+plugin://plugin.video.youtube/?url=https://youtu.be/s0uFNnIfS9w
