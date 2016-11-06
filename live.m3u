@@ -11,7 +11,7 @@ http://hdfree.tv/nbc-sports-live-stream.html
 #EXTINF:-1,SPORTV 1
 http://149.202.208.211:25461//streaming/clients_live.php?username=server9999&password=99992389848293849&stream=632&extension=m3u8&hash=ce87dfdc747168349d8c962f41bb07d4&time=0&external_device=&pid=32531&on_demand=0
 #EXTINF:-1,SIC
-http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8
+http://noscdn1.connectedviews.com:1935/live/sic.stream/livestream.m3u8&provider=http://sawlive.tv/play3.swf&autostart=true&screencolor=000000&
 #EXTINF:-1,RTP1HD
 rtmp://rtppullswflivefs.fplive.net/rtppullswflive-live playpath=2ch5h264 swfUrl=http://programas.rtp.pt/play/player.swf?v3  pageUrl=http://www.rtp.pt/play/direto/rtp1?mag swfVfy=1 live=1 timeout=15
 #EXTINF:-1,TVIHD
