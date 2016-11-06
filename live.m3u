@@ -1,96 +1,1748 @@
 # prime
 #EXTM3U
-#EXTINF:-1,PT: Sport TV1 HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1655.m3u8
-#EXTINF:-1,PT: Sport TV2 HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1656.m3u8
-#EXTINF:-1,PT: Sport TV3
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1657.m3u8
-#EXTINF:-1,PT: Sport TV 1
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2184.m3u8
-#EXTINF:-1,PT: Sport TV 2
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2185.m3u8
-#EXTINF:-1,PT: Sport TV 3
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2186.m3u8
-#EXTINF:-1,PT: Sport TV 4
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1695.m3u8
-#EXTINF:-1,PT: Sport TV 5
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1696.m3u8
-#EXTINF:-1,PT: Sporting TV
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2189.m3u8
-#EXTINF:-1,ES: Canal+ Liga
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1587.m3u8
-#EXTINF:-1,ES: Canal+ Liga 2
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1588.m3u8
-#EXTINF:-1,ES: Canal+ Futbol
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1586.m3u8
-#EXTINF:-1,ES: REAL MADRID TV
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2148.m3u8
-#EXTINF:-1,????? PORTUGAL ?????
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2165.m3u8
-#EXTINF:-1,PT: Tvi 24
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2176.m3u8
-#EXTINF:-1,PT: TV Cine 4
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2181.m3u8
-#EXTINF:-1,PT: TV Cine 3
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2180.m3u8
-#EXTINF:-1,PT: TV Cine 2
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2179.m3u8
-#EXTINF:-1,PT: TV Cine 1
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2178.m3u8
-#EXTINF:-1,PT: Sic Noticias
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2174.m3u8
-#EXTINF:-1,PT: Sic Mulher
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2175.m3u8
-#EXTINF:-1,PT: Sic
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2173.m3u8
-#EXTINF:-1,PT: RTP Memoria
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2169.m3u8
-#EXTINF:-1,PT: RTP Madeira
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2170.m3u8
-#EXTINF:-1,PT: RTP Africa
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2171.m3u8
-#EXTINF:-1,PT: RTP Acores
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2172.m3u8
-#EXTINF:-1,PT: RTP 3
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2168.m3u8
-#EXTINF:-1,PT: RTP 2
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2167.m3u8
-#EXTINF:-1,PT: RTP 1
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2166.m3u8
-#EXTINF:-1,PT: Nickelodeon
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2198.m3u8
-#EXTINF:-1,PT: Nat Geo Wild
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2196.m3u8
-#EXTINF:-1,PT: MTV Portugal
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2197.m3u8
-#EXTINF:-1,PT: Historia
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2190.m3u8
-#EXTINF:-1,PT: Fox Life HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2194.m3u8
-#EXTINF:-1,PT: Fox HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2193.m3u8
-#EXTINF:-1,PT: Fox Crime
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2195.m3u8
-#EXTINF:-1,PT: Euronews
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2177.m3u8
-#EXTINF:-1,PT: Disney Junior
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2201.m3u8
-#EXTINF:-1,PT: Disney Channel
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2200.m3u8
-#EXTINF:-1,PT: Cine Mundo
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2183.m3u8
-#EXTINF:-1,PT: Cartoon Network
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2199.m3u8
-#EXTINF:-1,PT: Canal Panda
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2202.m3u8
-#EXTINF:-1,PT: Biggs
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2203.m3u8
-#EXTINF:-1,PT: Benfica TV 2
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2188.m3u8
-#EXTINF:-1,PT: Benfica TV 1
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2187.m3u8
-#EXTINF:-1,PT: AXN White HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2192.m3u8
+#EXTINF:-1,=======   UK:ENTERTAINMENT   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2615.ts
+#EXTINF:-1,UK: BBC1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6986.ts
+#EXTINF:-1,UK: BBC One NI HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13488.ts
+#EXTINF:-1,UK: BBC RB 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13487.ts
+#EXTINF:-1,UK: BBC2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8363.ts
+#EXTINF:-1,UK: BBC2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6987.ts
+#EXTINF:-1,UK: Channel 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13712.ts
+#EXTINF:-1,UK: CHANNEL 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6995.ts
+#EXTINF:-1,UK: Channel 4 +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13558.ts
+#EXTINF:-1,UK: Channel 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6998.ts
+#EXTINF:-1,UK: Channel 5 +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13557.ts
+#EXTINF:-1,UK: Channel 5Star
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9560.ts
+#EXTINF:-1,UK: Sky One
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7365.ts
+#EXTINF:-1,UK: Sky One +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12365.ts
+#EXTINF:-1,UK: Sky Two
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7373.ts
+#EXTINF:-1,UK: Pick
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7054.ts
+#EXTINF:-1,UK: Pick 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13519.ts
+#EXTINF:-1,UK: My5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13556.ts
+#EXTINF:-1,UK: DAVE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7072.ts
+#EXTINF:-1,UK: SKY LIVING
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7024.ts
+#EXTINF:-1,UK: SKY LIVING +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12369.ts
+#EXTINF:-1,UK: BBC3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7084.ts
+#EXTINF:-1,UK: BBC4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8364.ts
+#EXTINF:-1,UK: ITV Encore
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13532.ts
+#EXTINF:-1,UK: ITV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6990.ts
+#EXTINF:-1,UK: ITV +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9550.ts
+#EXTINF:-1,UK: ITV1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8357.ts
+#EXTINF:-1,UK: ITV2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8356.ts
+#EXTINF:-1,UK: ITV2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6991.ts
+#EXTINF:-1,UK: ITV2 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13531.ts
+#EXTINF:-1,UK: ITV3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8354.ts
+#EXTINF:-1,UK: ITV3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6992.ts
+#EXTINF:-1,UK: ITV4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8355.ts
+#EXTINF:-1,UK: ITV4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6993.ts
+#EXTINF:-1,UK: ITV4 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13530.ts
+#EXTINF:-1,UK: Comedy Central
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7033.ts
+#EXTINF:-1,UK: Comedy Central +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13591.ts
+#EXTINF:-1,UK: Comedy Central Extra
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8255.ts
+#EXTINF:-1,UK: ComedyCentral Xtra +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13590.ts
+#EXTINF:-1,UK: Sci-Fi
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7049.ts
+#EXTINF:-1,UK: ALIBI
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7085.ts
+#EXTINF:-1,UK: Alibi +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12364.ts
+#EXTINF:-1,UK: E4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7068.ts
+#EXTINF:-1,UK: S4C
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13514.ts
+#EXTINF:-1,UK: MORE4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7062.ts
+#EXTINF:-1,UK: More4 +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13583.ts
+#EXTINF:-1,UK: CBS REALITY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7076.ts
+#EXTINF:-1,UK: CBS REALITY +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7075.ts
+#EXTINF:-1,UK: CBS Action
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7078.ts
+#EXTINF:-1,UK: CBS DRAMA
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7077.ts
+#EXTINF:-1,UK: Sony Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13512.ts
+#EXTINF:-1,UK: Sony Chnl 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13511.ts
+#EXTINF:-1,UK: Flava
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13587.ts
+#EXTINF:-1,UK: E!
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7069.ts
+#EXTINF:-1,UK: E! 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13549.ts
+#EXTINF:-1,UK: Quest
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7053.ts
+#EXTINF:-1,UK: QUEST 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13518.ts
+#EXTINF:-1,UK: SHOWCASE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7048.ts
+#EXTINF:-1,UK: 3e
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7372.ts
+#EXTINF:-1,UK: UTV IE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6996.ts
+#EXTINF:-1,UK: TV3 IE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6997.ts
+#EXTINF:-1,UK: TV3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7001.ts
+#EXTINF:-1,UK: TV3 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13497.ts
+#EXTINF:-1,UK: TLC
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7003.ts
+#EXTINF:-1,UK: TG4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7004.ts
+#EXTINF:-1,UK: RTE One
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7050.ts
+#EXTINF:-1,UK: RTE Two
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7051.ts
+#EXTINF:-1,UK: ITVBE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6994.ts
+#EXTINF:-1,UK: ITVBe 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13529.ts
+#EXTINF:-1,UK: Community Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13554.ts
+#EXTINF:-1,UK: AMC From BT
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13567.ts
+#EXTINF:-1,UK: ID
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7063.ts
+#EXTINF:-1,UK: ID 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13533.ts
+#EXTINF:-1,UK: Horror Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13585.ts
+#EXTINF:-1,UK: Horror Channel +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13586.ts
+#EXTINF:-1,UK: Fox
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7089.ts
+#EXTINF:-1,UK: Challenge
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13560.ts
+#EXTINF:-1,UK: Challenge +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13559.ts
+#EXTINF:-1,UK: 5USA
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7071.ts
+#EXTINF:-1,UK: 5 USA +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13569.ts
+#EXTINF:-1,UK: 5STAR
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7086.ts
+#EXTINF:-1,UK: 5STAR +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13568.ts
+#EXTINF:-1,UK: Lifetime
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8256.ts
+#EXTINF:-1,UK: Vintage TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9552.ts
+#EXTINF:-1,UK: FineLiving
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9388.ts
+#EXTINF:-1,UK: Gold
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12371.ts
+#EXTINF:-1,UK: GOLD 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13543.ts
+#EXTINF:-1,UK: Eden
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12460.ts
+#EXTINF:-1,UK: Eden +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12366.ts
+#EXTINF:-1,UK: True Drama
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13574.ts
+#EXTINF:-1,UK: True Crime 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13498.ts
+#EXTINF:-1,UK: tru TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13500.ts
+#EXTINF:-1,UK: tru TV 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13499.ts
+#EXTINF:-1,UK: TLC 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13501.ts
+#EXTINF:-1,UK: TLC 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13502.ts
+#EXTINF:-1,UK: Dunya News
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13486.ts
+#EXTINF:-1,UK: Drama
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13550.ts
+#EXTINF:-1,UK: Dmax
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12458.ts
+#EXTINF:-1,UK: Dmax +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12459.ts
+#EXTINF:-1,UK: De Ja Vu
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11779.ts
+#EXTINF:-1,UK: W 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13494.ts
+#EXTINF:-1,UK: W
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13495.ts
+#EXTINF:-1,UK: Universal +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13571.ts
+#EXTINF:-1,UK: Universal
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13572.ts
+#EXTINF:-1,UK: True Entertainment
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13573.ts
+#EXTINF:-1,UK: Sky News
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9551.ts
+#EXTINF:-1,UK: Real Lives 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13516.ts
+#EXTINF:-1,UK: Real Lives
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13517.ts
+#EXTINF:-1,UK: Tiny Pop +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13575.ts
+#EXTINF:-1,UK: Tiny Pop
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13576.ts
+#EXTINF:-1,UK: The Vault
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13577.ts
+#EXTINF:-1,UK: Spike
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13508.ts
+#EXTINF:-1,UK: RT. News Now
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13515.ts
+#EXTINF:-1,UK: PBS America
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13520.ts
+#EXTINF:-1,=======   UK:LIFESTYLE & CULTURE   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8250.ts
+#EXTINF:-1,UK: Discovery Shed
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6977.ts
+#EXTINF:-1,UK: Travel Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7002.ts
+#EXTINF:-1,UK: Travel Channel +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10162.ts
+#EXTINF:-1,UK: Really
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7052.ts
+#EXTINF:-1,UK: Home & Health
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7369.ts
+#EXTINF:-1,UK: Food Network
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8392.ts
+#EXTINF:-1,UK: SKY ARTS
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7046.ts
+#EXTINF:-1,UK: Good Food
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13542.ts
+#EXTINF:-1,UK: Good Food 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13541.ts
+#EXTINF:-1,UK: Food Netwrk 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13547.ts
+#EXTINF:-1,UK: Home&Health
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13536.ts
+#EXTINF:-1,UK: Home
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13537.ts
+#EXTINF:-1,UK: Home 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13535.ts
+#EXTINF:-1,=======   UK:MOVIES   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8252.ts
+#EXTINF:-1,UK: Sky Cinema Premiere HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7008.ts
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7007.ts
+#EXTINF:-1,UK: Sky Cinema Premier +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9557.ts
+#EXTINF:-1,UK: Sky Movies Comedy
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7012.ts
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7013.ts
+#EXTINF:-1,UK: Sky Cinema Family
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7009.ts
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7011.ts
+#EXTINF:-1,UK: Sky Movies Sci-Fi Horror HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7015.ts
+#EXTINF:-1,UK: Sky Movies ScFi-Horror
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6975.ts
+#EXTINF:-1,UK: Sky Film 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7030.ts
+#EXTINF:-1,UK: Film4 +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13588.ts
+#EXTINF:-1,UK: Sky Cinema Select
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7014.ts
+#EXTINF:-1,UK: Sky Cinema Disney
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7017.ts
+#EXTINF:-1,UK: Sky Universal +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9559.ts
+#EXTINF:-1,UK: Sony Movies
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13510.ts
+#EXTINF:-1,UK: Sony Movies 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13509.ts
+#EXTINF:-1,UK: TCM
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7006.ts
+#EXTINF:-1,UK: Starz TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13578.ts
+#EXTINF:-1,UK: Star Life OK
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13505.ts
+#EXTINF:-1,UK: Star Jalsha
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13506.ts
+#EXTINF:-1,UK: Star GOLD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13507.ts
+#EXTINF:-1,UK: TCM 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13504.ts
+#EXTINF:-1,UK: FILM 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7066.ts
+#EXTINF:-1,UK: True Movies 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6976.ts
+#EXTINF:-1,UK: True Movies 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7375.ts
+#EXTINF:-1,UK: Movies4Men
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8258.ts
+#EXTINF:-1,UK: Movies 24
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13525.ts
+#EXTINF:-1,UK: mov4men 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13526.ts
+#EXTINF:-1,UK: MOVIES CRIME & THRILLER
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7019.ts
+#EXTINF:-1,UK: MOVIES DISNEY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7021.ts
+#EXTINF:-1,UK: MOVIES COMEDY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7022.ts
+#EXTINF:-1,UK:  Sky Cinema Action & Adventure
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7023.ts
+#EXTINF:-1,UK: Syfy
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7005.ts
+#EXTINF:-1,UK: Syfy +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9556.ts
+#EXTINF:-1,UK: Sky Atlantic
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7045.ts
+#EXTINF:-1,UK: Sky Atlantic +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9558.ts
+#EXTINF:-1,=======   UK:SPORT   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8244.ts
+#EXTINF:-1,UK: SKY SPORTS NEWS HQ HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6981.ts
+#EXTINF:-1,UK: Sky Sports News HQ
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8391.ts
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13713.ts
+#EXTINF:-1,UK: Sky Sports 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8352.ts
+#EXTINF:-1,UK: Sky Sports 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7035.ts
+#EXTINF:-1,UK: Sky Sports 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8351.ts
+#EXTINF:-1,UK: Sky Sports 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7036.ts
+#EXTINF:-1,UK: Sky Sports 3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8350.ts
+#EXTINF:-1,UK: Sky Sports 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7037.ts
+#EXTINF:-1,UK: Sky Sports 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9549.ts
+#EXTINF:-1,UK: Sky Sports 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7038.ts
+#EXTINF:-1,UK: Sky Sports 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8349.ts
+#EXTINF:-1,UK: Sky Sports 5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7039.ts
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7987.ts
+#EXTINF:-1,UK: SKY SPORTS  F1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7067.ts
+#EXTINF:-1,UK: Eurosport 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7031.ts
+#EXTINF:-1,UK: Eurosport 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7374.ts
+#EXTINF:-1,UK: Premier Sports
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10163.ts
+#EXTINF:-1,UK: Premier Sport
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12498.ts
+#EXTINF:-1,UK: Motors TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8257.ts
+#EXTINF:-1,UK: Horse & Country
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13534.ts
+#EXTINF:-1,UK: AT THE RACES
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6984.ts
+#EXTINF:-1,UK: Racing UK
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7376.ts
+#EXTINF:-1,UK: Bike
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13599.ts
+#EXTINF:-1,UK: BT Sport Mosaic HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9149.ts
+#EXTINF:-1,UK: BT SPORTS MOSAIC 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12531.ts
+#EXTINF:-1,UK: BT Sport 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7041.ts
+#EXTINF:-1,UK: BT Sport 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7042.ts
+#EXTINF:-1,UK: BT Sport/ESPN HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8358.ts
+#EXTINF:-1,UK: BT Sport ESPN
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6985.ts
+#EXTINF:-1,UK: BT Sport 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8361.ts
+#EXTINF:-1,UK: BT Sport Europe/3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8360.ts
+#EXTINF:-1,UK: BT SPORTS EUROPE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7081.ts
+#EXTINF:-1,UK: BT Sports Extra 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7370.ts
+#EXTINF:-1,UK: BT Sport Extra 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13565.ts
+#EXTINF:-1,UK: BT Sport Extra 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13564.ts
+#EXTINF:-1,UK: BT Sport Extra 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13563.ts
+#EXTINF:-1,UK: BT Sport Extra 5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13562.ts
+#EXTINF:-1,UK: BT Sport Extra 6
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13561.ts
+#EXTINF:-1,UK: BET
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9148.ts
+#EXTINF:-1,UK: Setanta HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8241.ts
+#EXTINF:-1,UK: Sky Setanta Sports
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7040.ts
+#EXTINF:-1,UK: BOX NATION
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7082.ts
+#EXTINF:-1,UK: Sky BoxOff (PPV Events Only)
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7979.ts
+#EXTINF:-1,UK: MUTV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7043.ts
+#EXTINF:-1,UK: Chelsea TV HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7044.ts
+#EXTINF:-1,UK: Chelsea TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8359.ts
+#EXTINF:-1,UK: Liverpool LFCTV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9553.ts
+#EXTINF:-1,UK: Rangers TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12482.ts
+#EXTINF:-1,UK: Everton FC TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12484.ts
+#EXTINF:-1,UK: Celtic FC TV (Live for Matches )
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12457.ts
+#EXTINF:-1,UK: MIO SPORTS 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9299.ts
+#EXTINF:-1,UK: Mio Sports 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9300.ts
+#EXTINF:-1,UK: Mio Sports 3 (Eleven Plus)
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9301.ts
+#EXTINF:-1,UK: Mio Sports 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9302.ts
+#EXTINF:-1,UK: Mio Sports 5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9303.ts
+#EXTINF:-1,UK: Mio Sports 6
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9304.ts
+#EXTINF:-1,UK: Mio Sports 7
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9305.ts
+#EXTINF:-1,UK: Mio Sports 8
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9306.ts
+#EXTINF:-1,=======   UK:NEWS   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8246.ts
+#EXTINF:-1,UK: BBC News HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8362.ts
+#EXTINF:-1,UK: BBC News
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7371.ts
+#EXTINF:-1,UK: NHK World Ja EN
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2900.ts
+#EXTINF:-1,=======   UK:DOCUMENTARIES   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8247.ts
+#EXTINF:-1,UK: Discovery Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7026.ts
+#EXTINF:-1,Uk: Discovery Channel +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10161.ts
+#EXTINF:-1,UK: Discovery Turbo
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6979.ts
+#EXTINF:-1,UK: Discovery Science
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7028.ts
+#EXTINF:-1,UK: Disc.Sci 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13551.ts
+#EXTINF:-1,UK: Animal Planet
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7047.ts
+#EXTINF:-1,UK: Animal Planet +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13566.ts
+#EXTINF:-1,UK: Nat Geo
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7367.ts
+#EXTINF:-1,UK: Nat Geo Wild
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7025.ts
+#EXTINF:-1,UK: Discovery History HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7029.ts
+#EXTINF:-1,UK: Disc.History 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13552.ts
+#EXTINF:-1,UK: YESTERDAY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/6999.ts
+#EXTINF:-1,UK: Yesterday +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12375.ts
+#EXTINF:-1,UK: Investigation Discovery
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7368.ts
+#EXTINF:-1,UK: CRIME & THRILLER
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7073.ts
+#EXTINF:-1,UK: Crime & Investigation
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7074.ts
+#EXTINF:-1,UK: Crime Inv  1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13553.ts
+#EXTINF:-1,UK: H2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13540.ts
+#EXTINF:-1,UK: History
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13539.ts
+#EXTINF:-1,UK: History 1 hour
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13538.ts
+#EXTINF:-1,UK: GEO TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13544.ts
+#EXTINF:-1,=======   UK:CHILDREN’S   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8251.ts
+#EXTINF:-1,UK: Nickelodeon 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13521.ts
+#EXTINF:-1,UK: Baby TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11778.ts
+#EXTINF:-1,UK: Kix
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11469.ts
+#EXTINF:-1,UK: Kix +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13584.ts
+#EXTINF:-1,UK: Cartoon Network
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7034.ts
+#EXTINF:-1,UK: NickJr Too
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7543.ts
+#EXTINF:-1,UK: Nick Jr  +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7544.ts
+#EXTINF:-1,UK: Nicktoons
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7055.ts
+#EXTINF:-1,UK: Disney Junior
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7542.ts
+#EXTINF:-1,UK: Disney Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7032.ts
+#EXTINF:-1,UK: Disney Channel +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9555.ts
+#EXTINF:-1,UK: Nickelodeon
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7366.ts
+#EXTINF:-1,UK: Nickelodeon +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12368.ts
+#EXTINF:-1,UK: DISNEY XD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7070.ts
+#EXTINF:-1,UK: DISNEY XD +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12370.ts
+#EXTINF:-1,UK: CBEEBIES
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7079.ts
+#EXTINF:-1,UK: CBBC
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7080.ts
+#EXTINF:-1,UK: Cartoonito
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8254.ts
+#EXTINF:-1,UK: Boomerang +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13597.ts
+#EXTINF:-1,UK: Boomerang
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13598.ts
+#EXTINF:-1,=======   UK:MUSIC  =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8253.ts
+#EXTINF:-1,UK: MTV Music
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13582.ts
+#EXTINF:-1,UK: MTV 90s
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13485.ts
+#EXTINF:-1,UK: MTV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7061.ts
+#EXTINF:-1,UK: MTV +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13523.ts
+#EXTINF:-1,UK: MTV Base
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7060.ts
+#EXTINF:-1,UK: MTV Hits
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7057.ts
+#EXTINF:-1,UK: MTV Dance
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7058.ts
+#EXTINF:-1,UK: MTV Rocks
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7056.ts
+#EXTINF:-1,UK: MTV Classic
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7059.ts
+#EXTINF:-1,UK: VH1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7000.ts
+#EXTINF:-1,UK: VIVA
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8259.ts
+#EXTINF:-1,UK: Scuzz
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13579.ts
+#EXTINF:-1,UK: 4Music
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13570.ts
+#EXTINF:-1,UK: POP +1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13580.ts
+#EXTINF:-1,UK: POP
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13581.ts
+#EXTINF:-1,=======   PORTUGUESE   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2620.ts
+#EXTINF:-1,PT: 24 Kitchen HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8408.ts
+#EXTINF:-1,PT: A&E
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7837.ts
+#EXTINF:-1,PT: ABOLA TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7771.ts
+#EXTINF:-1,PT: Afro Music
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7750.ts
+#EXTINF:-1,PT: AXN BLACK HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7749.ts
 #EXTINF:-1,PT: AXN HD
-http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2191.m3u8
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7830.ts
+#EXTINF:-1,PT: AXN WHITE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7748.ts
+#EXTINF:-1,PT: Benfica TV 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7834.ts
+#EXTINF:-1,PT: Benfica TV 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7835.ts
+#EXTINF:-1,PT: BTV 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7742.ts
+#EXTINF:-1,PT: BTV 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7741.ts
+#EXTINF:-1,PT: Caca & Pesca
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7833.ts
+#EXTINF:-1,PT: Canal Historia
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7832.ts
+#EXTINF:-1,PT: CANAL PANDA
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7815.ts
+#EXTINF:-1,PT: Cartoon NetWork
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7814.ts
+#EXTINF:-1,PT: CBS Reality
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7831.ts
+#EXTINF:-1,PT: CINEMUNDO
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7740.ts
+#EXTINF:-1,PT: CMTV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7829.ts
+#EXTINF:-1,PT: Disney Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7813.ts
+#EXTINF:-1,PT: Disney Junior
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7747.ts
+#EXTINF:-1,PT: E! Entertaunment
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7828.ts
+#EXTINF:-1,PT: Economico TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7827.ts
+#EXTINF:-1,PT: EUROSPORT 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7743.ts
+#EXTINF:-1,PT: EUROSPORT 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7739.ts
+#EXTINF:-1,PT: EUROSPORT NEWS
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7769.ts
+#EXTINF:-1,PT: FOX Crime HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7826.ts
+#EXTINF:-1,PT: FOX HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7768.ts
+#EXTINF:-1,PT: Fox Life HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7825.ts
+#EXTINF:-1,PT: FOX Movies
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7824.ts
+#EXTINF:-1,PT: FX
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7823.ts
+#EXTINF:-1,PT: Hollywood HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7767.ts
+#EXTINF:-1,PT: Motors TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7822.ts
+#EXTINF:-1,PT: MOV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7766.ts
+#EXTINF:-1,PT: National Geographic HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8406.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7821.ts
+#EXTINF:-1,PT: Nickelodeon
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7812.ts
+#EXTINF:-1,PT: Odisseia
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7765.ts
+#EXTINF:-1,PT: Panda Biggs
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7811.ts
+#EXTINF:-1,PT: PFC
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7764.ts
+#EXTINF:-1,PT: Porto Canal
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7763.ts
+#EXTINF:-1,PT: RTP 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7762.ts
+#EXTINF:-1,PT: RTP 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7761.ts
+#EXTINF:-1,PT: RTP 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7803.ts
+#EXTINF:-1,PT: RTP Acores
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7804.ts
+#EXTINF:-1,PT: RTP Ãfrica
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7805.ts
+#EXTINF:-1,PT: RTP Madeira
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7806.ts
+#EXTINF:-1,PT: RTP Memoria
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7807.ts
+#EXTINF:-1,PT: SIC HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7760.ts
+#EXTINF:-1,PT: SIC Kids HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7810.ts
+#EXTINF:-1,PT: SIC Noticias HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8409.ts
+#EXTINF:-1,PT: SIC Noticias
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7820.ts
+#EXTINF:-1,PT: SPORT TV +
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7816.ts
+#EXTINF:-1,PT: SPORTING TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7759.ts
+#EXTINF:-1,PT: FOX COMEDY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8473.ts
+#EXTINF:-1,PT: SPORTTV 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7758.ts
+#EXTINF:-1,PT: SPORTTV 1 SD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8469.ts
+#EXTINF:-1,PT: SPORTTV 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7746.ts
+#EXTINF:-1,PT: SPORTTV 2 SD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8470.ts
+#EXTINF:-1,PT: SPORTTV 3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7757.ts
+#EXTINF:-1,PT: SPORTTV 3 SD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8471.ts
+#EXTINF:-1,PT: SPORTTV 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7756.ts
+#EXTINF:-1,PT: SPORTTV 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7745.ts
+#EXTINF:-1,PT: Sy-Fy
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7819.ts
+#EXTINF:-1,PT: Travel Channel HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8407.ts
+#EXTINF:-1,PT: TPA Angola
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7808.ts
+#EXTINF:-1,PT: TV Globo Premium
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7818.ts
+#EXTINF:-1,PT: TVCINE 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7809.ts
+#EXTINF:-1,PT: TVCINE 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7755.ts
+#EXTINF:-1,PT: TVCINE 3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7754.ts
+#EXTINF:-1,PT: TVCINE 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7753.ts
+#EXTINF:-1,PT: TVI HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7744.ts
+#EXTINF:-1,PT: Tvi 24
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7752.ts
+#EXTINF:-1,PT: TVI FICCAO
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7751.ts
+#EXTINF:-1,Latino: El Trece HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11721.ts
+#EXTINF:-1,Latino: Efekto TV HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11720.ts
+#EXTINF:-1,Latino: DW
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/11719.ts
+#EXTINF:-1,=======   HOT +18   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/646.ts
+#EXTINF:-1,XXX: PlayBoy
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13012.ts
+#EXTINF:-1,XXX: Playy>19  HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10318.ts
+#EXTINF:-1,XXX: Honey 18
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7732.ts
+#EXTINF:-1,XXX: Adult 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7729.ts
+#EXTINF:-1,XXX: Adult 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7728.ts
+#EXTINF:-1,XXX: Adult 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7727.ts
+#EXTINF:-1,XXX: Adult 5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7731.ts
+#EXTINF:-1,XXX: Adult 6
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7730.ts
+#EXTINF:-1,XXX: Adult 7
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7726.ts
+#EXTINF:-1,XXX: Adult 8
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7723.ts
+#EXTINF:-1,XXX: Adult 9
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7725.ts
+#EXTINF:-1,XXX: Adult 10
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7724.ts
+#EXTINF:-1,XXX: Adult 11
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7395.ts
+#EXTINF:-1,XXX: Adult 12
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/5426.ts
+#EXTINF:-1,XXX: Adult 14
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/5423.ts
+#EXTINF:-1,XXX: Adult 13
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/5422.ts
+#EXTINF:-1,XXX: RedLight HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/5420.ts
+#EXTINF:-1,XXX: Midnight
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3848.ts
+#EXTINF:-1,XXX: Adult 17
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3847.ts
+#EXTINF:-1,XXX: Adult 19
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3845.ts
+#EXTINF:-1,XXX: Holland Hard
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3842.ts
+#EXTINF:-1,XXX: Hustler HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3841.ts
+#EXTINF:-1,XXX: Adult 22
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3840.ts
+#EXTINF:-1,XXX: Adult 23
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3839.ts
+#EXTINF:-1,XXX: Adult 24
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3862.ts
+#EXTINF:-1,XXX: But Go
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8316.ts
+#EXTINF:-1,XXX: Hot Club 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7387.ts
+#EXTINF:-1,XXX: Hot Club 3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7389.ts
+#EXTINF:-1,XXX: Hot Club 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7390.ts
+#EXTINF:-1,XXX: Hot Club 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7391.ts
+#EXTINF:-1,XXX: Hot Club 6 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7392.ts
+#EXTINF:-1,XXX: Hot Club 7 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7388.ts
+#EXTINF:-1,XXX: Hot Club 8 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7393.ts
+#EXTINF:-1,XXX: Hot Club 9 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7394.ts
+#EXTINF:-1,XXX: PINK EROTIC 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7242.ts
+#EXTINF:-1,XXX: PINK EROTIC 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7241.ts
+#EXTINF:-1,XXX: PINK EROTIC 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7240.ts
+#EXTINF:-1,XXX: PINK EROTIC 4
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7239.ts
+#EXTINF:-1,XXX: Pink Erotic 5
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10314.ts
+#EXTINF:-1,XXX: Pink Erotic 6
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10315.ts
+#EXTINF:-1,XXX: Pink Erotic 7
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10316.ts
+#EXTINF:-1,XXX: Pink Erotic 8
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10317.ts
+#EXTINF:-1,XXX: VOD 1 - MILF - IT
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/5171.mp4
+#EXTINF:-1,XXX: VOD 2 - Trading Mothers for Daughters - IT
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/5172.mp4
+#EXTINF:-1,=======   CANADA  =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2612.ts
+#EXTINF:-1,=======   USA   =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2892.ts
+#EXTINF:-1,USA: TNT HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13180.ts
+#EXTINF:-1,USA: Sportsnet West HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13232.ts
+#EXTINF:-1,USA: Spike HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13179.ts
+#EXTINF:-1,USA: ESPN U HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13229.ts
+#EXTINF:-1,USA: ESPN 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13230.ts
+#EXTINF:-1,USA: BeIN Sports USA HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/13227.ts
+#EXTINF:-1,USA: StarzZ  Edge
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10171.ts
+#EXTINF:-1,USA: NHL Network
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12479.ts
+#EXTINF:-1,USA: Fox
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10174.ts
+#EXTINF:-1,USA: AFN SPECTRUM
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10166.ts
+#EXTINF:-1,USA: AFN Prime Atlantic
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10167.ts
+#EXTINF:-1,USA: Star Z Cinema
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9832.ts
+#EXTINF:-1,USA: PAC-12 Washington HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/10143.ts
+#EXTINF:-1,USA: HBO Comedy
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9831.ts
+#EXTINF:-1,USA: DTX
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9547.ts
+#EXTINF:-1,USA: Discovery Science
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9546.ts
+#EXTINF:-1,USA: TBN
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9542.ts
+#EXTINF:-1,USA: Church Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9536.ts
+#EXTINF:-1,USA: A&E
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9315.ts
+#EXTINF:-1,USA: AFN MOVIE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9488.ts
+#EXTINF:-1,USA: AFN SPORTS
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9516.ts
+#EXTINF:-1,USA: AFN SPORTS 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9517.ts
+#EXTINF:-1,USA: AMG TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9511.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9518.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9519.ts
+#EXTINF:-1,USA: Astro SUPERSPORT 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9520.ts
+#EXTINF:-1,USA: Bloomberg
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9510.ts
+#EXTINF:-1,USA: Boston City TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9509.ts
+#EXTINF:-1,USA: BYU Sports TV HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9529.ts
+#EXTINF:-1,USA: CBS Action
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9340.ts
+#EXTINF:-1,USA: CBS DRAMA
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9339.ts
+#EXTINF:-1,USA: CBS News HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9508.ts
+#EXTINF:-1,USA: CBS Reality
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9338.ts
+#EXTINF:-1,USA: C-SPAN
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9318.ts
+#EXTINF:-1,USA: CSPAN 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9319.ts
+#EXTINF:-1,USA: C-SPAN 3
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9320.ts
+#EXTINF:-1,USA: E! Network HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9321.ts
+#EXTINF:-1,USA: Food Network
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9337.ts
+#EXTINF:-1,USA: Fox Sport 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9391.ts
+#EXTINF:-1,USA: Fox Sports 506 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9528.ts
+#EXTINF:-1,USA: HSN 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9512.ts
+#EXTINF:-1,USA: HSN 2
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9513.ts
+#EXTINF:-1,USA: Mello TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9502.ts
+#EXTINF:-1,USA: Mute TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9487.ts
+#EXTINF:-1,USA: NASA TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9324.ts
+#EXTINF:-1,USA: Nasa TV HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9499.ts
+#EXTINF:-1,USA: NBC Golf HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9526.ts
+#EXTINF:-1,USA: NBC SN
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9523.ts
+#EXTINF:-1,USA: Nick
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9333.ts
+#EXTINF:-1,USA: Poker Central
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9326.ts
+#EXTINF:-1,USA: RT America HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9498.ts
+#EXTINF:-1,USA: RT Documentary
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9497.ts
+#EXTINF:-1,USA: The Florida Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9495.ts
+#EXTINF:-1,USA: TLC HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9480.ts
+#EXTINF:-1,USA: Travel Channel HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9476.ts
+#EXTINF:-1,USA: Tru TV HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9330.ts
+#EXTINF:-1,USA: Twit TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9485.ts
+#EXTINF:-1,USA: UC TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9492.ts
+#EXTINF:-1,USA: USA Network HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9329.ts
+#EXTINF:-1,USA: Versus NBA HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9524.ts
+#EXTINF:-1,USA: WHDH
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9491.ts
+#EXTINF:-1,USA: Willow HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9328.ts
+#EXTINF:-1,USA: WWE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9530.ts
+#EXTINF:-1,USA: BLOOMBERG U.S.A.
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9472.ts
+#EXTINF:-1,USA: DTX HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9475.ts
+#EXTINF:-1,USA: Bravo
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8691.ts
+#EXTINF:-1,USA: CNN HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8692.ts
+#EXTINF:-1,USA: FOX Sport 1
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8681.ts
+#EXTINF:-1,USA: LIFE TIME
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8687.ts
+#EXTINF:-1,USA: NFL Network HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8693.ts
+#EXTINF:-1,USA: TBS HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8685.ts
+#EXTINF:-1,USA: HBO ZONE
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8412.ts
+#EXTINF:-1,USA: HBO HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8411.ts
+#EXTINF:-1,USA: HBO FAMILY
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8414.ts
+#EXTINF:-1,USA: E!
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8417.ts
+#EXTINF:-1,USA: AMC HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8415.ts
+#EXTINF:-1,USA: Tsn Sport 1 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8293.ts
+#EXTINF:-1,USA: Tsn Sport 2 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8292.ts
+#EXTINF:-1,USA: Tsn Sport 3 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8291.ts
+#EXTINF:-1,USA: Tsn Sport 4 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8290.ts
+#EXTINF:-1,USA: Tsn-Sport 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8289.ts
+#EXTINF:-1,USA: Tsn Sport 5 HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/12547.ts
+#EXTINF:-1,USA: WWE Network
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8410.ts
+#EXTINF:-1,OSN: PPV WWE HD
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/9151.ts
+#EXTINF:-1,USA: NBA TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8309.ts
+#EXTINF:-1,USA: Fight Sport
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8308.ts
+#EXTINF:-1,USA: UALR TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3865.ts
+#EXTINF:-1,USA: NBC
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/8393.ts
+#EXTINF:-1,USA: Country Music Channel
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3859.ts
+#EXTINF:-1,USA: Channel 11
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3860.ts
+#EXTINF:-1,USA: CBN News
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3872.ts
+#EXTINF:-1,USA: ASD TV
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3861.ts
+#EXTINF:-1,USA: 360 North
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/3863.ts
+#EXTINF:-1,USA: Versus
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2904.ts
+#EXTINF:-1,USA: ABC News
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/2931.ts
+#EXTINF:-1,======== ENGLISH MOVIES =======
+http://iptvsensation.ns01.biz:6500/live/albanez/albanez/7480.ts
+#EXTINF:-1,Warcraft EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13295.mp4
+#EXTINF:-1,Urge EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13299.mp4
+#EXTINF:-1,The Hateful Eight EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9825.avi
+#EXTINF:-1,The Boss En
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13308.mp4
+#EXTINF:-1,Now You See Me 2 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13296.mp4
+#EXTINF:-1,Let's Be Evil EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13297.mp4
+#EXTINF:-1,Ghostbusters EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13293.mp4
+#EXTINF:-1,Everybody Wants Some EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13306.mp4
+#EXTINF:-1,Equals EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13294.mp4
+#EXTINF:-1,Dirty GrandPa EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13301.mp4
+#EXTINF:-1,Colonia EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13305.mp4
+#EXTINF:-1,Carol EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13307.mp4
+#EXTINF:-1,Allegiant EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13304.mp4
+#EXTINF:-1,Alice Through the Looking Glass EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13303.mp4
+#EXTINF:-1,13 Hours EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13300.mp4
+#EXTINF:-1,10 Cloverfield Lane EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13298.mp4
+#EXTINF:-1,Thor 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11880.mp4
+#EXTINF:-1,Scream at the Devil 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11879.mp4
+#EXTINF:-1,Milwood 3D (2013) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11878.mkv
+#EXTINF:-1,Kingdom Of Plants E03 - Survival EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11875.mkv
+#EXTINF:-1,Kingdom of Plants E02 - Solving the secrets EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11877.mkv
+#EXTINF:-1,Kingdom of Plants E01- Life in the wet zones EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11876.mkv
+#EXTINF:-1,Battle for Terra 3D (2007) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11872.mp4
+#EXTINF:-1,Absolute Power EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11881.mkv
+#EXTINF:-1,Bodyguard.2016.720p.TC. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11188.mp4
+#EXTINF:-1,Batman.V.Superman.Dawn.of.Justice.2016.720p.HDTC. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11187.mp4
+#EXTINF:-1,Babysitter's Black Book 2016 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13248.mp4
+#EXTINF:-1,Angry.Birds.Movie.2016.720p.TC. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11182.mp4
+#EXTINF:-1,A Girl like Her EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11811.mp4
+#EXTINF:-1,A Brave Heart EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11810.mp4
+#EXTINF:-1,3 Idiots EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11786.mp4
+#EXTINF:-1,2016.MTV.Movie.Awards.720p.HDTV. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11177.mp4
+#EXTINF:-1,13 Cameras EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/13251.mkv
+#EXTINF:-1,12Angry Men EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11785.mp4
+#EXTINF:-1,12 Years Slave EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11784.mp4
+#EXTINF:-1,10.Cloverfield.Lane.2016.1080p.HDRip.x265. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11175.mp4
+#EXTINF:-1,Hard-core.Henry.2016.HDTS. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11208.mp4
+#EXTINF:-1,Fan.2016.Hindi.720p.BluRay.x265.ShAaNiG. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11202.mp4
+#EXTINF:-1,Eddie.The.Eagle.2016.HC.720p.HDrip. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11199.mp4
+#EXTINF:-1,Diablo.2016.720p.WEB-DL.x265. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11197.mp4
+#EXTINF:-1,DeadPool.2016.HD-TS. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11195.mp4
+#EXTINF:-1,Criminal.2016.HDTC. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11192.mp4
+#EXTINF:-1,Code.of.Honor.2016.720p.WEB-DL. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11190.mp4
+#EXTINF:-1,Captain.America.Civil.War.2016.1080p.HDTC. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11189.mp4
+#EXTINF:-1,Pride.and.Prejudice.and.Zombies.2016.720p.ShAaNiG EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10530.mp4
+#EXTINF:-1,Precious Cargo EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11239.mp4
+#EXTINF:-1,Pele Birth Of A Legend EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11237.mp4
+#EXTINF:-1,Pandemic.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10526.mp4
+#EXTINF:-1,Pandemic EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11235.mp4
+#EXTINF:-1,Mercury Plains EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11227.mp4
+#EXTINF:-1,Maigret Sets A Trap EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11226.mp4
+#EXTINF:-1,Life.on.the.Line.2016.DVDRip. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11224.mp4
+#EXTINF:-1,LEGO.DC.Comics.Super.Heroes.Justice.League.Cosmic.Clash.2016.720p. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11223.mp4
+#EXTINF:-1,Kung Fu Panda 3 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/12462.mp4
+#EXTINF:-1,Kite EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11919.mkv
+#EXTINF:-1,Kingsman The Secret Service EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11918.mp4
+#EXTINF:-1,Kindergarten.Cop.2.2016.720p.WEB  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11222.mp4
+#EXTINF:-1,Kill.Kane.2016.720p.WEB-DL. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11221.mp4
+#EXTINF:-1,Kill Me Three Times EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11917.avi
+#EXTINF:-1,Kick-Ass 2 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11916.mkv
+#EXTINF:-1,Keanu.2016.HC.720p.WEBRiP. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11219.mp4
+#EXTINF:-1,Jarhead.3.The.Siege.2016.HDRip. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11216.mp4
+#EXTINF:-1,iZombie.S01E13.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11174.mp4
+#EXTINF:-1,iZombie.S01E13.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11173.mp4
+#EXTINF:-1,iZombie.S01E12.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11172.mp4
+#EXTINF:-1,iZombie.S01E12.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11171.mp4
+#EXTINF:-1,iZombie.S01E11.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11170.mp4
+#EXTINF:-1,iZombie.S01E11.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11169.mp4
+#EXTINF:-1,iZombie.S01E10.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11168.mp4
+#EXTINF:-1,iZombie.S01E10.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11167.mp4
+#EXTINF:-1,iZombie.S01E09.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11166.mp4
+#EXTINF:-1,iZombie.S01E09.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11165.mp4
+#EXTINF:-1,iZombie.S01E08.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11163.mp4
+#EXTINF:-1,iZombie.S01E07.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11162.mp4
+#EXTINF:-1,iZombie.S01E06.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11160.mp4
+#EXTINF:-1,iZombie.S01E06.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11159.mp4
+#EXTINF:-1,iZombie.S01E05.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11158.mp4
+#EXTINF:-1,iZombie.S01E05.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11157.mp4
+#EXTINF:-1,iZombie.S01E04.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11156.mp4
+#EXTINF:-1,iZombie.S01E04.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11155.mp4
+#EXTINF:-1,iZombie.S01E03.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11154.mp4
+#EXTINF:-1,iZombie.S01E03.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11153.mp4
+#EXTINF:-1,iZombie.S01E02.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11152.mp4
+#EXTINF:-1,iZombie.S01E02.480 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11151.mp4
+#EXTINF:-1,iZombie.S01E01.720 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11150.mp4
+#EXTINF:-1,Ice.Age.The.Great.Egg-Scapade.2016.1080p.WEB-DL. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11213.mp4
+#EXTINF:-1,I.Am.Wrath.2016.1080p. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11212.mp4
+#EXTINF:-1,Queen of the Desert EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11241.mp4
+#EXTINF:-1,Rocky Handsome EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11245.mp4
+#EXTINF:-1,Riot EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11929.mkv
+#EXTINF:-1,Ride Along 2 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11243.mp4
+#EXTINF:-1,The Family Fang EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11265.mp4
+#EXTINF:-1,The Darkness EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11263.mp4
+#EXTINF:-1,The Asian Connection EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11258.mp4
+#EXTINF:-1,The American Side EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11256.mp4
+#EXTINF:-1,The Adderall Diaries EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11255.mp4
+#EXTINF:-1,The 88th Annual Academy Award EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11254.mp4
+#EXTINF:-1,The 73rd Annual Golden Globe Award EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11253.mp4
+#EXTINF:-1,The 58th Annual Grammy Awards  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11251.mp4
+#EXTINF:-1,Term Life EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11248.mp4
+#EXTINF:-1,Special Correspondents EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11246.mp4
+#EXTINF:-1,Zoolander 2 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11289.mp4
+#EXTINF:-1,X-Men Apocalypse EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11288.mp4
+#EXTINF:-1,WWE Wrestlemania EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11286.mkv
+#EXTINF:-1,WWE Royal Rumble EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11285.mp4
+#EXTINF:-1,Wazir EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11287.mp4
+#EXTINF:-1,Triple 9 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11282.mp4
+#EXTINF:-1,Top.Gear.Super.Cars.Across.Italy.2012. EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/12469.mp4
+#EXTINF:-1,Top Gear The Perfect Road Trip 2013 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/12475.mp4
+#EXTINF:-1,The.Huntsman.Winters.War EN.
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11270.mp4
+#EXTINF:-1,The.Huntsman.Winters.War  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11271.mp4
+#EXTINF:-1,The Young Messiah EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11281.mp4
+#EXTINF:-1,The Veil EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11280.mp4
+#EXTINF:-1,The Monkey King 2 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11275.mp4
+#EXTINF:-1,The Jungle.Book EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11272.mp4
+#EXTINF:-1,The Jungle Book EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/12461.mp4
+#EXTINF:-1,The Forest EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11269.mp4
+#EXTINF:-1,American Heist EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11882.avi
+#EXTINF:-1,American Ultra EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11883.avi
+#EXTINF:-1,Banlieue 13 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11885.avi
+#EXTINF:-1,Batman v Superman Dawn of Justice [ ] EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11886.mkv
+#EXTINF:-1,Birkebeinerne EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11887.mp4
+#EXTINF:-1,Blackhat EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11888.avi
+#EXTINF:-1,Brick Mansions EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11890.avi
+#EXTINF:-1,BROOKLYN RENTAL EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11884.avi
+#EXTINF:-1,Buffy the vampire slayer EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11891.mkv
+#EXTINF:-1,Bullet to the Head EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11892.mkv
+#EXTINF:-1,Catch 44 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11893.mkv
+#EXTINF:-1,Close Range EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11894.mkv
+#EXTINF:-1,Colt 45 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11895.avi
+#EXTINF:-1,Criminal EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11896.mkv
+#EXTINF:-1,Crouching Tiger Hidden Dragon Sword of Destiny EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11897.mp4
+#EXTINF:-1,DADS ARMY EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11898.avi
+#EXTINF:-1,DESPITE THE FALLING SNOW EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11899.avi
+#EXTINF:-1,Drive Angry EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11901.mkv
+#EXTINF:-1,Eraser EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11902.mp4
+#EXTINF:-1,Everly EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11903.avi
+#EXTINF:-1,Figures.in.a.Landscape EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11905.mkv
+#EXTINF:-1,Faster EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11904.avi
+#EXTINF:-1,Game of Death EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11907.avi
+#EXTINF:-1,Gangster Squad EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11908.avi
+#EXTINF:-1,Goodfellas EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11909.avi
+#EXTINF:-1,GOOSEBUMPS EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11906.avi
+#EXTINF:-1,Hanna [] EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11910.avi
+#EXTINF:-1,Hitman Agent 47 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11911.avi
+#EXTINF:-1,House of the Rising Sun EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11912.avi
+#EXTINF:-1,Jack Reacher EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11913.avi
+#EXTINF:-1,Jack Ryan Shadow Recruit (2014) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11914.avi
+#EXTINF:-1,John Wick EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11915.avi
+#EXTINF:-1,London Has Fallen EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11920.mkv
+#EXTINF:-1,Lucy (2014) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11921.mkv
+#EXTINF:-1,Man Of Tai Chi EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11922.avi
+#EXTINF:-1,Misfire EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11923.mkv
+#EXTINF:-1,Mr. & Mrs. Smith EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11924.avi
+#EXTINF:-1,Need for Speed  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11925.avi
+#EXTINF:-1,Olympus Has Fallen  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11926.avi
+#EXTINF:-1,Once Upon a Time in America (1984) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11927.mkv
+#EXTINF:-1,Point Break EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11928.mkv
+#EXTINF:-1,Real Steel (2011) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11930.avi
+#EXTINF:-1,Revenge of the Green Dragons (2014) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11931.avi
+#EXTINF:-1,The Call Up EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11933.mkv
+#EXTINF:-1,The.Duel EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11934.avi
+#EXTINF:-1,Yakuza Apocalypse EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11937.mkv
+#EXTINF:-1,Vigilante.Diaries EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11936.mkv
+#EXTINF:-1,Triple 9 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11935.mkv
+#EXTINF:-1,The Circle EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11932.avi
+#EXTINF:-1,Adventure Coral Reef Under The Sea Of Egypt 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11848.mkv
+#EXTINF:-1,Aliens of the Deep 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11849.mkv
+#EXTINF:-1,Animation Tank (2010) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11850.mkv
+#EXTINF:-1,Avatar 3D  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11851.mp4
+#EXTINF:-1,Cirque Du Soleil Worlds Away 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11852.mkv
+#EXTINF:-1,Diving in Paradise Shark Adventures in Thailand 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11853.mkv
+#EXTINF:-1,Hewy's Animated Movie Reviews How To Train Your Dragon (2010) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11856.mp4
+#EXTINF:-1,Hewy's Animated Movie Reviews Monsters Vs. Aliens (2009) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11857.mkv
+#EXTINF:-1,History - The Flying Swords of Dragon Gate 3D (2011) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11858.mkv
+#EXTINF:-1,How to Train Your Dragon 2 3D (2014) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11859.mkv
+#EXTINF:-1,Micro Monsters 3D - S01E02 Predator EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11862.mkv
+#EXTINF:-1,Shark Night 3D (2011) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11865.mp4
+#EXTINF:-1,The Darkest Hour 3D (2011) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11866.mkv
+#EXTINF:-1,The Hobbit 2 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11867.mkv
+#EXTINF:-1,Thor 2 - The Dark World 3D EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11868.mkv
+#EXTINF:-1,Toy Story 3 3D (2010) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11869.mp4
+#EXTINF:-1,Under The Sea 3D (2009) EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/11870.mkv
+#EXTINF:-1,Whos.Driving.Doug.2016.HDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10607.mp4
+#EXTINF:-1,WEAPONiZED.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10605.mp4
+#EXTINF:-1,WEAPONiZED.2016.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10604.mp4
+#EXTINF:-1,Wazir.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10606.mp4
+#EXTINF:-1,Time.Rush.2016.BluRay.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10595.mp4
+#EXTINF:-1,The.Monkey.King.2.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10585.mp4
+#EXTINF:-1,The.Jungle.Book.2016.MasterEdition.720p.TC.ShAaNiG EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10581.mp4
+#EXTINF:-1,The.Boy.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10567.mp4
+#EXTINF:-1,The.Boy.2016.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10566.mp4
+#EXTINF:-1,The.Asian.Connection.2016.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10564.mp4
+#EXTINF:-1,The.5th.Wave.2016.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10558.mp4
+#EXTINF:-1,Sanam.Teri.Kasam.2016.DVDRip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10543.mp4
+#EXTINF:-1,Sacrifice.2016.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10542.mp4
+#EXTINF:-1,Quo.Vado.2016.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10534.mp4
+#EXTINF:-1,Queen.of.the.Desert.2016.720p.WEB-DL EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10533.mp4
+#EXTINF:-1,Punks.Dead.SLC.Punk.2.2016.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10531.mp4
+#EXTINF:-1,Never.Back.Down.No.Surrender.2016.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10521.mp4
+#EXTINF:-1,Monkey.Up.2016.HDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10511.mp4
+#EXTINF:-1,LEGO.DC.Comics.Super.Heroes.Justice.League.Cosmic.Clash.2016.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10499.mp4
+#EXTINF:-1,Killing.Them.Safely.2015.720p.WEB EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10940.mp4
+#EXTINF:-1,Killing.Jesus.2015.720p.YIFY EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10939.mp4
+#EXTINF:-1,Killing.Jesus.2015.1080p.YIFY EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10938.mp4
+#EXTINF:-1,Kill.Your.Friends.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10936.mp4
+#EXTINF:-1,Kill.Your.Friends.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10935.mp4
+#EXTINF:-1,Kidnapping.Mr.Heineken.2015.1080p.YIFY  EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10934.mp4
+#EXTINF:-1,Kicking.Off.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10933.mp4
+#EXTINF:-1,Keith.Richards.Under.the.Influence.2015.720p.WEBrip EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10931.mp4
+#EXTINF:-1,Kara.Bela.2015.DVDrip.Ozlem EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10927.mp4
+#EXTINF:-1,Journey.to.the.Shore.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10925.mp4
+#EXTINF:-1,Journey.to.the.Shore.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10924.mp4
+#EXTINF:-1,Joe.Dirt.2.Beautiful.Loser.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10923.mp4
+#EXTINF:-1,Joe.Dirt.2.Beautiful.Loser.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10922.mp4
+#EXTINF:-1,Jeruzalem.2015.BluRay.720p EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10920.mp4
+#EXTINF:-1,Jem.and.the.Holograms.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10918.mp4
+#EXTINF:-1,Jem.and.the.Holograms.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10917.mp4
+#EXTINF:-1,Jamie.Marks.Is.Dead.2014.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10913.mp4
+#EXTINF:-1,Irrational.Man.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10910.mp4
+#EXTINF:-1,Ip.Man.3.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10907.mp4
+#EXTINF:-1,Il.Solengo.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10897.mp4
+#EXTINF:-1,I.Spit.on.Your.Grave.2.2013.UNRATED.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10892.mp4
+#EXTINF:-1,How.To.Change.The.World.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10884.mp4
+#EXTINF:-1,Home.Invasion.2016.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10485.mp4
+#EXTINF:-1,Hardcore%20Henry%202016%20HD-TeleSync%20500%20MB EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10480.mp4
+#EXTINF:-1,Hard.Tide.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10859.mp4
+#EXTINF:-1,Ghost.In.The.Shell.The.New.Movie.2015.BluRay.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10839.mp4
+#EXTINF:-1,Ghayal.Once.Again.2016.720p.DVDrip.ShAaNiG EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10473.mp4
+#EXTINF:-1,Gangnam.Blues.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10838.mp4
+#EXTINF:-1,Foreign.Land.2016.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10470.mp4
+#EXTINF:-1,Zootopia
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10426.mp4
+#EXTINF:-1,Dusk.2015.HDrip EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10800.mp4
+#EXTINF:-1,Dirty.Grandpa.2016.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10459.mp4
+#EXTINF:-1,Dilwale.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10786.mp4
+#EXTINF:-1,Crazy.About.Tiffany
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10448.mp4
+#EXTINF:-1,Containment.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10745.mp4
+#EXTINF:-1,Clinger.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10738.mp4
+#EXTINF:-1,Clean.Hands.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10737.mp4
+#EXTINF:-1,Clean.Hands.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10736.mp4
+#EXTINF:-1,City.of.Gold.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10735.mp4
+#EXTINF:-1,Cider%20with%20Rosie%202015%20720p EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10733.mp4
+#EXTINF:-1,Chi-Raq.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10728.mp4
+#EXTINF:-1,Chi-Raq.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10727.mp4
+#EXTINF:-1,Cest.Si.Bon.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10725.mp4
+#EXTINF:-1,Carol.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10721.mp4
+#EXTINF:-1,Captive.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10720.mp4
+#EXTINF:-1,Burnt.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10713.mp4
+#EXTINF:-1,Burning.Bodhi.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10710.mp4
+#EXTINF:-1,Buddy.Hutchins.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10709.mp4
+#EXTINF:-1,Bridge.of.Spies.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10703.mp4
+#EXTINF:-1,Breakdown
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10442.mp4
+#EXTINF:-1,Bone.Tomahawk.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10701.mp4
+#EXTINF:-1,Blue.Mountain.State.The.Rise.of.Thadland
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10439.mp4
+#EXTINF:-1,Blackhat.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10696.mp4
+#EXTINF:-1,Black.Mass.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10695.mp4
+#EXTINF:-1,Bite.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10692.mp4
+#EXTINF:-1,Batman.Bad.Blood
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10435.mp4
+#EXTINF:-1,Baskin.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10685.mp4
+#EXTINF:-1,Band.of.Robbers.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10682.mp4
+#EXTINF:-1,Bakuman.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10681.mp4
+#EXTINF:-1,Bad.Roomies.2015.720p.WEB-DL.Ganoo EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10678.mp4
+#EXTINF:-1,Back.in.the.Day
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10433.mp4
+#EXTINF:-1,Authors.Anonymous.2014.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10673.mp4
+#EXTINF:-1,At.Grannys.House.2015.720p.WEB-DL EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10667.mp4
+#EXTINF:-1,Asthma.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10666.mp4
+#EXTINF:-1,Assassination.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10665.mp4
+#EXTINF:-1,Assassination.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10664.mp4
+#EXTINF:-1,Ashby.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10663.mp4
+#EXTINF:-1,Ashby.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10662.mp4
+#EXTINF:-1,Ant.Man.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10659.mp4
+#EXTINF:-1,Anguish.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10654.mp4
+#EXTINF:-1,Angel.of.Christmas.2015.720p.HDTV.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10651.mp4
+#EXTINF:-1,American.Hero.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10650.mp4
+#EXTINF:-1,Always.Watching.A.Marble.Hornets.Story.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10649.mp4
+#EXTINF:-1,All.Things.Must.Pass.The.Rise.and.Fall.of.Tower.Records.2015.BluRay.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10646.mp4
+#EXTINF:-1,All.I.Want.For.Christmas.2015.DVDRip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10643.mp4
+#EXTINF:-1,Alex.and.Eve.2015.720p.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10639.mp4
+#EXTINF:-1,Against.the.Sun.2014.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10637.mp4
+#EXTINF:-1,After.Words.2015.DVDrip.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10635.mp4
+#EXTINF:-1,After.the.Ball.2015.720.WEB-DL.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10636.mp4
+#EXTINF:-1,Aferim.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10634.mp4
+#EXTINF:-1,Adama.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10633.mp4
+#EXTINF:-1,Absolution.2015.DVDrip EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10632.mp4
+#EXTINF:-1,Absolutely.Anything.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10631.mp4
+#EXTINF:-1,Aaaaaaaah.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10629.mp4
+#EXTINF:-1,A.la.mala.2015.720p.[ParsiFilm.In]
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10628.mp4
+#EXTINF:-1,A.L Interieur Inside IT
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9796.mkv
+#EXTINF:-1,A.Christmas.Star.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10621.mp4
+#EXTINF:-1,99.Homes.2014.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10618.mp4
+#EXTINF:-1,90.Minutes.in.Heaven.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10617.mp4
+#EXTINF:-1,90.Minutes.in.Heaven.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10616.mp4
+#EXTINF:-1,45.Years.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10611.mp4
+#EXTINF:-1,13.Minutes.2015.720p.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10609.mp4
+#EXTINF:-1,13.Minutes.2015.1080p.5.1CH.Ganool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10608.mp4
+#EXTINF:-1,The Little Prince
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10144.mp4
+#EXTINF:-1,The Hateful Eight
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10148.mp4
+#EXTINF:-1,The 5 Wave
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10145.mp4
+#EXTINF:-1,Michael McIntyre - Happy & Glorious
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10151.mp4
+#EXTINF:-1,In. he Heart of the Sea
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10149.mp4
+#EXTINF:-1,The Angry Birds Movie
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10010.mp4
+#EXTINF:-1,How To Be Single
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10009.mp4
+#EXTINF:-1,The Invitation EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9143.avi
+#EXTINF:-1,'71
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9354.mp4
+#EXTINF:-1,12Years a slave
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9355.mp4
+#EXTINF:-1,2 Fast 2 Furious
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9356.mp4
+#EXTINF:-1,21 Jump Street 2012
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9357.mp4
+#EXTINF:-1,The Martian
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9150.mp4
+#EXTINF:-1,The Finest Hours EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8403.mp4
+#EXTINF:-1,The 5th Wave EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8402.mp4
+#EXTINF:-1,Chronic IT
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/9144.avi
+#EXTINF:-1,Batman v Superman Dawn of Justice EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8401.mkv
+#EXTINF:-1,London Has Fallen EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8306.avi
+#EXTINF:-1,Kung Fu Panda 3 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8305.avi
+#EXTINF:-1,Deadpool EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8307.mp4
+#EXTINF:-1,Batman V Superman EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8304.mkv
+#EXTINF:-1,This Is The End EN
+http://178.162.214.232/vod/movies/English%20comedy/This.Is.The.End.mp4
+#EXTINF:-1,The Woman in Black EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Woman.in.Black.mp4
+#EXTINF:-1,The Wolf of Wall Street EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Wolf.of.Wall.Street.mp4
+#EXTINF:-1,The Phantom of the Opera EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Phantom.of.the.Opera.mp4
+#EXTINF:-1,The Hangover Part III EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Hangover.Part.III.mp4
+#EXTINF:-1,The Grandmasters EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Grandmasters.mp4
+#EXTINF:-1,The Fault in Our Stars EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Fault.in.Our.Stars.mp4
+#EXTINF:-1,The Aviator EN
+http://178.162.214.232/vod/movies/English%20comedy/The.Aviator.mp4
+#EXTINF:-1,Stoker EN
+http://178.162.214.232/vod/movies/English%20comedy/Stoker.mp4
+#EXTINF:-1,Philomena EN
+http://178.162.214.232/vod/movies/English%20comedy/Philomena.mp4
+#EXTINF:-1,Neighbors EN
+http://178.162.214.232/vod/movies/English%20comedy/Neighbors.mp4
+#EXTINF:-1,Monsters EN
+http://178.162.214.232/vod/movies/English%20comedy/Monsters.mp4
+#EXTINF:-1,Matchstick Men EN
+http://178.162.214.232/vod/movies/English%20comedy/Matchstick.Men.mp4
+#EXTINF:-1,High School Musical 3 EN
+http://178.162.214.232/vod/movies/English%20comedy/High.School.Musical.3.mp4
+#EXTINF:-1,Harry Potter and the Half Blood Prince EN
+http://178.162.214.232/vod/movies/english-new/Harry.Potter.and.the.Half.Blood.Prince.2009.1080p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,Finding Neverland EN
+http://178.162.214.232/vod/movies/English%20comedy/Finding.Neverland.mp4
+#EXTINF:-1,Don John EN
+http://178.162.214.232/vod/movies/English%20comedy/Don.Jon.mp4
+#EXTINF:-1,Despicable Me EN
+http://178.162.214.232/vod/movies/english-new/Despicable.Me.2.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Dallas Buyers Club EN
+http://178.162.214.232/vod/movies/English%20comedy/Dallas.Buyers.Club.mp4
+#EXTINF:-1,Chef EN
+http://178.162.214.232/vod/movies/English%20comedy/Chef.mp4
+#EXTINF:-1,Capitan Phillips EN
+http://178.162.214.232/vod/movies/English%20comedy/Captain.Phillips.mp4
+#EXTINF:-1,Boyhood EN
+http://178.162.214.232/vod/movies/English%20comedy/Boyhood.mp4
+#EXTINF:-1,Black Haw Down EN
+http://178.162.214.232/vod/movies/English%20comedy/Black.Haw.Down.2001.mp4
+#EXTINF:-1,Behind Enemy Lines EN
+http://178.162.214.232/vod/movies/English%20comedy/Behind.Enemy.Lines.mp4
+#EXTINF:-1,Bad Teacher EN
+http://178.162.214.232/vod/movies/English%20comedy/Bad.Teacher.mp4
+#EXTINF:-1,Anchorman 2 The Legend Continues EN
+http://178.162.214.232/vod/movies/English%20comedy/Anchorman.2.The.Legend.Continues.mp4
+#EXTINF:-1,American Reunion EN
+http://178.162.214.232/vod/movies/English%20comedy/American.Reunion.mp4
+#EXTINF:-1,American Pie 3-The Wedding EN
+http://178.162.214.232/vod/movies/English%20comedy/American.Pie.3.The.Wedding.mp4
+#EXTINF:-1,American Hustle EN
+http://178.162.214.232/vod/movies/English%20comedy/American.Hustle.mp4
+#EXTINF:-1,01 Star Wars Episode I The Phantom Menace EN
+http://178.162.214.232/vod/movies/english-new/01.Star.Wars.Episode.I.The.Phantom.Menace.mp4
+#EXTINF:-1,02 Star Wars Episode II Attack Of The Clones EN
+http://178.162.214.232/vod/movies/english-new/02.Star.Wars.Episode.II.Attack.Of.The.Clones.mp4
+#EXTINF:-1,03 Star Wars Episode III Revenge of the Sith EN
+http://178.162.214.232/vod/movies/english-new/03.Star.Wars.Episode.III.Revenge.of.the.Sith.mp4
+#EXTINF:-1,04 Star Wars Episode IV A New Hope EN
+http://178.162.214.232/vod/movies/english-new/04.Star.Wars.Episode.IV.A.New.Hope.mp4
+#EXTINF:-1,05 Star Wars Episode V The Empire Strikes Back EN
+http://178.162.214.232/vod/movies/english-new/05.Star.Wars.Episode.V.The.Empire.Strikes.Back.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E09
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10160.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E08
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10159.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E07
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10158.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E06
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10157.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E05
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10156.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E04
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10155.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E03
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10154.mp4
+#EXTINF:-1,A.D. The Bible Continues S01E02
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10153.mp4
+#EXTINF:-1,EN:Batman v Superman: Dawn of Justice
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/10150.mp4
+#EXTINF:-1,The Night Manager S01E01 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8310.mkv
+#EXTINF:-1,The Night Manager S01E02 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8311.mkv
+#EXTINF:-1,The Night Manager S01E03 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8312.mkv
+#EXTINF:-1,The Night Manager S01E04 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8313.mkv
+#EXTINF:-1,The Night Manager S01E05 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8314.mkv
+#EXTINF:-1,The Night Manager S01E06 EN
+http://iptvsensation.ns01.biz:6500/movie/albanez/albanez/8315.mkv
