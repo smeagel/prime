@@ -1,94 +1,96 @@
 # prime
 #EXTM3U
-#EXTINF:-1,-----Prime-----------Portugues----------------
-http://151.80.105.182:8000/live/washington/washington/4790.ts
-#EXTINF:-1,PT:TVCINE 4
-http://151.80.105.182:8000/live/washington/washington/4817.ts
-#EXTINF:-1,PT:TVCINE 3
-http://151.80.105.182:8000/live/washington/washington/4816.ts
-#EXTINF:-1,PT:FOX HD
-http://151.80.105.182:8000/live/washington/washington/4808.ts
-#EXTINF:-1,PT:FOX CRIME
-http://151.80.105.182:8000/live/washington/washington/4807.ts
-#EXTINF:-1,PT:CMTV
-http://151.80.105.182:8000/live/washington/washington/4806.ts
-#EXTINF:-1,PT:CINE MUNDO
-http://151.80.105.182:8000/live/washington/washington/4805.ts
-#EXTINF:-1,PT:BENFICA TV 1 HD
-http://151.80.105.182:8000/live/washington/washington/4804.ts
-#EXTINF:-1,PT:AXN WHITE HD
-http://151.80.105.182:8000/live/washington/washington/4803.ts
-#EXTINF:-1,PT:AXN HD
-http://151.80.105.182:8000/live/washington/washington/4802.ts
+#EXTINF:-1,PT: Sport TV1 HD
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1655.m3u8
+#EXTINF:-1,PT: Sport TV2 HD
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1656.m3u8
+#EXTINF:-1,PT: Sport TV3
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1657.m3u8
+#EXTINF:-1,PT: Sport TV 1
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2184.m3u8
+#EXTINF:-1,PT: Sport TV 2
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2185.m3u8
+#EXTINF:-1,PT: Sport TV 3
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2186.m3u8
+#EXTINF:-1,PT: Sport TV 4
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1695.m3u8
+#EXTINF:-1,PT: Sport TV 5
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1696.m3u8
+#EXTINF:-1,PT: Sporting TV
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2189.m3u8
+#EXTINF:-1,ES: Canal+ Liga
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1587.m3u8
+#EXTINF:-1,ES: Canal+ Liga 2
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1588.m3u8
+#EXTINF:-1,ES: Canal+ Futbol
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/1586.m3u8
+#EXTINF:-1,ES: REAL MADRID TV
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2148.m3u8
+#EXTINF:-1,????? PORTUGAL ?????
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2165.m3u8
 #EXTINF:-1,PT: Tvi 24
-http://151.80.105.182:8000/live/washington/washington/4819.ts
-#EXTINF:-1,PT: SYFY
-http://151.80.105.182:8000/live/washington/washington/4801.ts
-#EXTINF:-1,PT: SPORT TV 3 HD
-http://151.80.105.182:8000/live/washington/washington/4800.ts
-#EXTINF:-1,PT: SIC Radical
-http://151.80.105.182:8000/live/washington/washington/4799.ts
-#EXTINF:-1,PT: SIC NOTICIAS
-http://151.80.105.182:8000/live/washington/washington/4798.ts
-#EXTINF:-1,PT: SIC Mulher
-http://151.80.105.182:8000/live/washington/washington/4797.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2176.m3u8
+#EXTINF:-1,PT: TV Cine 4
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2181.m3u8
+#EXTINF:-1,PT: TV Cine 3
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2180.m3u8
+#EXTINF:-1,PT: TV Cine 2
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2179.m3u8
+#EXTINF:-1,PT: TV Cine 1
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2178.m3u8
+#EXTINF:-1,PT: Sic Noticias
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2174.m3u8
+#EXTINF:-1,PT: Sic Mulher
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2175.m3u8
 #EXTINF:-1,PT: Sic
-http://151.80.105.182:8000/live/washington/washington/4820.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2173.m3u8
 #EXTINF:-1,PT: RTP Memoria
-http://151.80.105.182:8000/live/washington/washington/4821.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2169.m3u8
 #EXTINF:-1,PT: RTP Madeira
-http://151.80.105.182:8000/live/washington/washington/4822.ts
-#EXTINF:-1,PT: RTP INFORMACAO
-http://151.80.105.182:8000/live/washington/washington/4796.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2170.m3u8
 #EXTINF:-1,PT: RTP Africa
-http://151.80.105.182:8000/live/washington/washington/4823.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2171.m3u8
 #EXTINF:-1,PT: RTP Acores
-http://151.80.105.182:8000/live/washington/washington/4824.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2172.m3u8
 #EXTINF:-1,PT: RTP 3
-http://151.80.105.182:8000/live/washington/washington/4825.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2168.m3u8
 #EXTINF:-1,PT: RTP 2
-http://151.80.105.182:8000/live/washington/washington/4826.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2167.m3u8
 #EXTINF:-1,PT: RTP 1
-http://151.80.105.182:8000/live/washington/washington/4827.ts
-#EXTINF:-1,PT: ODISSEIA
-http://151.80.105.182:8000/live/washington/washington/4795.ts
-#EXTINF:-1,PT: NICKELODEON
-http://151.80.105.182:8000/live/washington/washington/4794.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2166.m3u8
+#EXTINF:-1,PT: Nickelodeon
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2198.m3u8
 #EXTINF:-1,PT: Nat Geo Wild
-http://151.80.105.182:8000/live/washington/washington/4828.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2196.m3u8
 #EXTINF:-1,PT: MTV Portugal
-http://151.80.105.182:8000/live/washington/washington/4829.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2197.m3u8
 #EXTINF:-1,PT: Historia
-http://151.80.105.182:8000/live/washington/washington/4830.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2190.m3u8
 #EXTINF:-1,PT: Fox Life HD
-http://151.80.105.182:8000/live/washington/washington/4831.ts
-#EXTINF:-1,PT: Eurosport
-http://151.80.105.182:8000/live/washington/washington/4793.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2194.m3u8
+#EXTINF:-1,PT: Fox HD
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2193.m3u8
+#EXTINF:-1,PT: Fox Crime
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2195.m3u8
 #EXTINF:-1,PT: Euronews
-http://151.80.105.182:8000/live/washington/washington/4832.ts
-#EXTINF:-1,PT: DISNEY JUNIOR (test)
-http://151.80.105.182:8000/live/washington/washington/4792.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2177.m3u8
 #EXTINF:-1,PT: Disney Junior
-http://151.80.105.182:8000/live/washington/washington/4833.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2201.m3u8
 #EXTINF:-1,PT: Disney Channel
-http://151.80.105.182:8000/live/washington/washington/4834.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2200.m3u8
+#EXTINF:-1,PT: Cine Mundo
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2183.m3u8
 #EXTINF:-1,PT: Cartoon Network
-http://151.80.105.182:8000/live/washington/washington/4835.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2199.m3u8
 #EXTINF:-1,PT: Canal Panda
-http://151.80.105.182:8000/live/washington/washington/4836.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2202.m3u8
 #EXTINF:-1,PT: Biggs
-http://151.80.105.182:8000/live/washington/washington/4837.ts
-#EXTINF:-1,PT: AXN BLACK
-http://151.80.105.182:8000/live/washington/washington/4791.ts
-#EXTINF:-1,1BT Sport ESPN
-http://151.80.105.182:8000/live/washington/washington/10792.ts
-#EXTINF:-1,1BT Sport 2 HD
-http://151.80.105.182:8000/live/washington/washington/10789.ts
-#EXTINF:-1,1BT Sport 2
-http://151.80.105.182:8000/live/washington/washington/10791.ts
-#EXTINF:-1,1BT Sport 1 HD
-http://151.80.105.182:8000/live/washington/washington/10788.ts
-#EXTINF:-1,1BT Sport 1
-http://151.80.105.182:8000/live/washington/washington/10790.ts
-#EXTINF:-1,1Boxnation
-http://151.80.105.182:8000/live/washington/washington/10785.ts
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2203.m3u8
+#EXTINF:-1,PT: Benfica TV 2
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2188.m3u8
+#EXTINF:-1,PT: Benfica TV 1
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2187.m3u8
+#EXTINF:-1,PT: AXN White HD
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2192.m3u8
+#EXTINF:-1,PT: AXN HD
+http://ksportiptv.com:1557/live/MIXM3U8/lnnPo4VOUN/2191.m3u8
