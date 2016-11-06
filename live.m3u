@@ -1,151 +1,94 @@
 # prime
 #EXTM3U
-#EXTINF:-1,-----Prime-----
-#EXTINF:-1,XXX: Playboy
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/132.ts
-#EXTINF:-1,XXX: HOT
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/188.ts
-#EXTINF:-1,XXX: Club 4 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/314.ts
-#EXTINF:-1,XXX: Club 3 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/313.ts
-#EXTINF:-1,XXX: Adult:Private
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/190.ts
-#EXTINF:-1,UK: Watch
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/207.ts
-#EXTINF:-1,UK: VH1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/106.ts
-#EXTINF:-1,UK: THRILLER
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/61.ts
-#EXTINF:-1,UK: Sport News
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/74.ts
-#EXTINF:-1,UK: Baby Tv
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/102.ts
-#EXTINF:-1,UK: Sky Two
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/44.ts
-#EXTINF:-1,UK: SKY Sports F1 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/24.ts
-#EXTINF:-1,UK: SKY Sport 5 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/23.ts
-#EXTINF:-1,UK: SKY Sport 4 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/22.ts
-#EXTINF:-1,UK: SKY Sport 3 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/21.ts
-#EXTINF:-1,UK: SKY Sport 2 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/20.ts
-#EXTINF:-1,UK: SKY Sport 1 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/18.ts
-#EXTINF:-1,UK: SKY ONE
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/43.ts
-#EXTINF:-1,UK: Sky Movies Disney
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/206.ts
-#EXTINF:-1,UK: Sky Greats
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/170.ts
-#EXTINF:-1,UK: Sky Atlantic
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/76.ts
-#EXTINF:-1,UK: Show Case
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/45.ts
-#EXTINF:-1,UK: Setanta Ireland
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/197.ts
-#EXTINF:-1,UK: Sci-Fi
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/79.ts
-#EXTINF:-1,UK: RTE 2 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/340.ts
-#EXTINF:-1,UK: RTE 1 HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/339.ts
-#EXTINF:-1,UK: Nicktoons
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/251.ts
-#EXTINF:-1,UK: NATIONAL GEO
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/203.ts
-#EXTINF:-1,UK: MTV Hits
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/104.ts
-#EXTINF:-1,UK: MTV Classic
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/105.ts
-#EXTINF:-1,UK: Movies Premiere
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/78.ts
-#EXTINF:-1,UK: MOVIES ACTION
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/169.ts
-#EXTINF:-1,UK: manu-tv
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/72.ts
-#EXTINF:-1,UK: Living
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/103.ts
-#EXTINF:-1,UK: Liverpool
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/342.ts
-#EXTINF:-1,UK: ITV 4
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/15.ts
-#EXTINF:-1,UK: ITV 3
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/14.ts
-#EXTINF:-1,UK: ITV 2
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/13.ts
-#EXTINF:-1,UK: ITV 1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/12.ts
-#EXTINF:-1,UK: ID
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/202.ts
-#EXTINF:-1,UK: Horror
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/101.ts
-#EXTINF:-1,UK: Fox
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/172.ts
-#EXTINF:-1,UK: Five
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/42.ts
-#EXTINF:-1,UK: EUROSPORT 2
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/63.ts
-#EXTINF:-1,UK: EuroSport 1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/75.ts
-#EXTINF:-1,UK: Eden
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/205.ts
-#EXTINF:-1,UK: E4
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/41.ts
-#EXTINF:-1,UK: Drama
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/98.ts
-#EXTINF:-1,UK: DMAX HD
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/201.ts
-#EXTINF:-1,UK: Disney Junior
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/250.ts
-#EXTINF:-1,UK: Disney Channel
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/77.ts
-#EXTINF:-1,UK: DISCOVERY SCIENCE
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/200.ts
-#EXTINF:-1,UK: DISCOVERY HISTORY
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/199.ts
-#EXTINF:-1,UK: Discovery
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/81.ts
-#EXTINF:-1,UK: COMEDY
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/59.ts
-#EXTINF:-1,UK: Chelsea TV
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/73.ts
-#EXTINF:-1,UK: BT Sports EU
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/64.ts
-#EXTINF:-1,UK: BT Sport 2
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/11.ts
-#EXTINF:-1,UK: BT Sport 1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/10.ts
-#EXTINF:-1,UK: BBC-News
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/630.ts
-#EXTINF:-1,UK: BBC 4
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/9.ts
-#EXTINF:-1,UK: BBC 3
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/8.ts
-#EXTINF:-1,UK: BBC 2
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/7.ts
-#EXTINF:-1,UK:BBC 1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/6.ts
-#EXTINF:-1,UK: ANIMAL PLANET
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/198.ts
-#EXTINF:-1,UK: Aliens
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/95.ts
-#EXTINF:-1,UK: Alibi
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/204.ts
-#EXTINF:-1,UK-SKY PREMIERE SPORT
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/341.ts
-#EXTINF:-1,UK Sky Movies Select
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/39.ts
-#EXTINF:-1,PT: SPORTV 5
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/187.ts
-#EXTINF:-1,PT: SPORTV 4
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/186.ts
-#EXTINF:-1,PT: SPORTV 3
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/185.ts
-#EXTINF:-1,PT: SPORTV 2
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/184.ts
-#EXTINF:-1,PT: SPORTV 1
-http://iptvpolo.dvrdns.org:22921/live/Miguel/skype/183.ts
+#EXTINF:-1,-----Prime-----------Portugues----------------
+http://151.80.105.182:8000/live/washington/washington/4790.ts
+#EXTINF:-1,PT:TVCINE 4
+http://151.80.105.182:8000/live/washington/washington/4817.ts
+#EXTINF:-1,PT:TVCINE 3
+http://151.80.105.182:8000/live/washington/washington/4816.ts
+#EXTINF:-1,PT:FOX HD
+http://151.80.105.182:8000/live/washington/washington/4808.ts
+#EXTINF:-1,PT:FOX CRIME
+http://151.80.105.182:8000/live/washington/washington/4807.ts
+#EXTINF:-1,PT:CMTV
+http://151.80.105.182:8000/live/washington/washington/4806.ts
+#EXTINF:-1,PT:CINE MUNDO
+http://151.80.105.182:8000/live/washington/washington/4805.ts
+#EXTINF:-1,PT:BENFICA TV 1 HD
+http://151.80.105.182:8000/live/washington/washington/4804.ts
+#EXTINF:-1,PT:AXN WHITE HD
+http://151.80.105.182:8000/live/washington/washington/4803.ts
+#EXTINF:-1,PT:AXN HD
+http://151.80.105.182:8000/live/washington/washington/4802.ts
+#EXTINF:-1,PT: Tvi 24
+http://151.80.105.182:8000/live/washington/washington/4819.ts
+#EXTINF:-1,PT: SYFY
+http://151.80.105.182:8000/live/washington/washington/4801.ts
+#EXTINF:-1,PT: SPORT TV 3 HD
+http://151.80.105.182:8000/live/washington/washington/4800.ts
+#EXTINF:-1,PT: SIC Radical
+http://151.80.105.182:8000/live/washington/washington/4799.ts
+#EXTINF:-1,PT: SIC NOTICIAS
+http://151.80.105.182:8000/live/washington/washington/4798.ts
+#EXTINF:-1,PT: SIC Mulher
+http://151.80.105.182:8000/live/washington/washington/4797.ts
+#EXTINF:-1,PT: Sic
+http://151.80.105.182:8000/live/washington/washington/4820.ts
+#EXTINF:-1,PT: RTP Memoria
+http://151.80.105.182:8000/live/washington/washington/4821.ts
+#EXTINF:-1,PT: RTP Madeira
+http://151.80.105.182:8000/live/washington/washington/4822.ts
+#EXTINF:-1,PT: RTP INFORMACAO
+http://151.80.105.182:8000/live/washington/washington/4796.ts
+#EXTINF:-1,PT: RTP Africa
+http://151.80.105.182:8000/live/washington/washington/4823.ts
+#EXTINF:-1,PT: RTP Acores
+http://151.80.105.182:8000/live/washington/washington/4824.ts
+#EXTINF:-1,PT: RTP 3
+http://151.80.105.182:8000/live/washington/washington/4825.ts
+#EXTINF:-1,PT: RTP 2
+http://151.80.105.182:8000/live/washington/washington/4826.ts
+#EXTINF:-1,PT: RTP 1
+http://151.80.105.182:8000/live/washington/washington/4827.ts
+#EXTINF:-1,PT: ODISSEIA
+http://151.80.105.182:8000/live/washington/washington/4795.ts
+#EXTINF:-1,PT: NICKELODEON
+http://151.80.105.182:8000/live/washington/washington/4794.ts
+#EXTINF:-1,PT: Nat Geo Wild
+http://151.80.105.182:8000/live/washington/washington/4828.ts
+#EXTINF:-1,PT: MTV Portugal
+http://151.80.105.182:8000/live/washington/washington/4829.ts
+#EXTINF:-1,PT: Historia
+http://151.80.105.182:8000/live/washington/washington/4830.ts
+#EXTINF:-1,PT: Fox Life HD
+http://151.80.105.182:8000/live/washington/washington/4831.ts
+#EXTINF:-1,PT: Eurosport
+http://151.80.105.182:8000/live/washington/washington/4793.ts
+#EXTINF:-1,PT: Euronews
+http://151.80.105.182:8000/live/washington/washington/4832.ts
+#EXTINF:-1,PT: DISNEY JUNIOR (test)
+http://151.80.105.182:8000/live/washington/washington/4792.ts
+#EXTINF:-1,PT: Disney Junior
+http://151.80.105.182:8000/live/washington/washington/4833.ts
+#EXTINF:-1,PT: Disney Channel
+http://151.80.105.182:8000/live/washington/washington/4834.ts
+#EXTINF:-1,PT: Cartoon Network
+http://151.80.105.182:8000/live/washington/washington/4835.ts
+#EXTINF:-1,PT: Canal Panda
+http://151.80.105.182:8000/live/washington/washington/4836.ts
+#EXTINF:-1,PT: Biggs
+http://151.80.105.182:8000/live/washington/washington/4837.ts
+#EXTINF:-1,PT: AXN BLACK
+http://151.80.105.182:8000/live/washington/washington/4791.ts
+#EXTINF:-1,1BT Sport ESPN
+http://151.80.105.182:8000/live/washington/washington/10792.ts
+#EXTINF:-1,1BT Sport 2 HD
+http://151.80.105.182:8000/live/washington/washington/10789.ts
+#EXTINF:-1,1BT Sport 2
+http://151.80.105.182:8000/live/washington/washington/10791.ts
+#EXTINF:-1,1BT Sport 1 HD
+http://151.80.105.182:8000/live/washington/washington/10788.ts
+#EXTINF:-1,1BT Sport 1
+http://151.80.105.182:8000/live/washington/washington/10790.ts
+#EXTINF:-1,1Boxnation
+http://151.80.105.182:8000/live/washington/washington/10785.ts
